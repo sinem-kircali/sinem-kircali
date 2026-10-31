@@ -24,7 +24,7 @@ I like projects that end in a decision, not just a metric: who to target, what p
 
 ### 📈 Machine learning & predictive modelling
 - [thesis](https://github.com/sinem-kircali/thesis): MSc thesis, delivery timing and customer dissatisfaction (Random Forest, SHAP, asymmetric logit, LDA)
-- [telco-churn-retention-targeting](https://github.com/sinem-kircali/telco-churn-retention-targeting): churn model turned into a ranked contact list: leakage-safe pipelines, nested CV, calibration and a profit curve
+- [customer-churn-prediction](https://github.com/sinem-kircali/customer-churn-prediction): churn classification with MICE imputation and tuned gradient boosting (senior capstone)
 - [spotify-hit-prediction-xai](https://github.com/sinem-kircali/spotify-hit-prediction-xai): hit prediction with random forest and XGBoost, explained with SHAP and ICE (R)
 - [nasdaq-volatility-xgboost](https://github.com/sinem-kircali/nasdaq-volatility-xgboost): volatility forecasting with XGBoost, PDP, ALE and SHAP (R)
 - [transport-mode-choice-random-forest](https://github.com/sinem-kircali/transport-mode-choice-random-forest): random forest vs logit for commuter mode choice, with imbalance-aware evaluation (R)
@@ -39,6 +39,7 @@ I like projects that end in a decision, not just a metric: who to target, what p
 - [marketing-mix-modeling](https://github.com/sinem-kircali/marketing-mix-modeling): media ROI and budget reallocation across TikTok, Facebook and Google Ads (R)
 - [pricing-revenue-management](https://github.com/sinem-kircali/pricing-revenue-management): price optimisation with Gurobi
 - [customer-segmentation-kmeans](https://github.com/sinem-kircali/customer-segmentation-kmeans): customer segmentation in R
+- [telco-churn-retention-targeting](https://github.com/sinem-kircali/telco-churn-retention-targeting): retention targeting in euros
 
 ### ⚙️ Operations research, simulation & forecasting
 - [workforce-optimization-gurobi](https://github.com/sinem-kircali/workforce-optimization-gurobi): workforce planning as an integer program
