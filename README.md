@@ -12,6 +12,7 @@ I like projects that end in a decision, not just a metric: who to target, what p
 
 | Project | What it shows |
 |---|---|
+| [**MSc thesis: delivery timing & dissatisfaction**](https://github.com/sinem-kircali/thesis) | 95,830 marketplace orders: missing the promised date weighs far more than beating it. Random Forest + SHAP, asymmetric logistic regression with seller-cluster bootstrap, and LDA on 9,118 complaints |
 | [**Competitor pricing dynamics**](https://github.com/sinem-kircali/competitor-pricing-dynamics) | Who leads and who follows when a large online retailer changes prices: role models and hazard models on scraped, high-frequency price data |
 | [**Telco churn: retention targeting**](https://github.com/sinem-kircali/telco-churn-retention-targeting) | From churn model to contact list: risk × value ranking, profit curve, nested cross-validation and a fairness check |
 | [**Market risk toolkit**](https://github.com/sinem-kircali/market-risk-toolkit) | VaR and Expected Shortfall three ways, stress tests, Markov regime detection, VaR backtesting |
@@ -22,6 +23,7 @@ I like projects that end in a decision, not just a metric: who to target, what p
 ---
 
 ### 📈 Machine learning & predictive modelling
+- [thesis](https://github.com/sinem-kircali/thesis): MSc thesis, delivery timing and customer dissatisfaction (Random Forest, SHAP, asymmetric logit, LDA)
 - [customer-churn-prediction](https://github.com/sinem-kircali/customer-churn-prediction): churn classification with MICE imputation and tuned gradient boosting (senior capstone)
 - [spotify-hit-prediction-xai](https://github.com/sinem-kircali/spotify-hit-prediction-xai): hit prediction with random forest and XGBoost, explained with SHAP and ICE (R)
 - [nasdaq-volatility-xgboost](https://github.com/sinem-kircali/nasdaq-volatility-xgboost): volatility forecasting with XGBoost, PDP, ALE and SHAP (R)
